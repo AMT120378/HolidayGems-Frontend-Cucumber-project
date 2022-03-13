@@ -1,0 +1,12 @@
+2022-03-12 17:03:148 INFO  HomePage :104 - Click on Destination 'Costa Almeria - Spain' : Costa Almeria - Spain
+2022-03-12 17:03:502 INFO  HomePage :104 - Click on Destination 'Costa Almeria - Spain' : Costa Almeria - Spain
+2022-03-12 17:03:231 INFO  HomePage :104 - Click on Destination 'Costa Almeria - Spain' : Costa Almeria - Spain
+2022-03-12 18:03:797 INFO  HomePage :104 - Click on Destination 'Costa Almeria - Spain' : Costa Almeria - Spain
+2022-03-12 18:03:761 INFO  HomePage :104 - Click on Destination 'Costa Almeria - Spain' : Costa Almeria - Spain
+2022-03-12 18:03:296 INFO  HomePage :115 - Click on Airport 'London (All Airports)' : London (All Airports)
+2022-03-12 18:03:463 INFO  HomePage :166 - Select nights '3 Nights' : 3 Nights
+2022-03-12 18:03:713 INFO  HomePage :52 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ffad33b200dbbc2305181bc0c4bda4bb)] -> xpath: //input[@id='BookingFormData_PaymentDetails_HouseNoName']]
+2022-03-12 18:03:22 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ffad33b200dbbc2305181bc0c4bda4bb)] -> xpath: //input[@id='BookingFormData_PaymentDetails_Town']]
+2022-03-12 18:03:243 INFO  HomePage :64 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ffad33b200dbbc2305181bc0c4bda4bb)] -> xpath: //input[@id='BookingFormData_PaymentDetails_County']]
+2022-03-12 18:03:510 INFO  HomePage :68 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ffad33b200dbbc2305181bc0c4bda4bb)] -> xpath: //select[@id='BookingFormData_PaymentDetails_Country']]
+2022-03-12 18:03:639 INFO  HomePage :72 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ffad33b200dbbc2305181bc0c4bda4bb)] -> xpath: //input[@id='BookingFormData_PaymentDetails_PostCode']]
